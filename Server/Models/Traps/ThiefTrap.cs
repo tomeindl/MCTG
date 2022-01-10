@@ -15,7 +15,7 @@ namespace Server.Models
 
         public List<AbstractCard> ManipulateDeck(List<AbstractCard> deck)
         {
-            if (deck.Count == 0) throw new InvalidInputException("Deck empty at Instigator");
+            if (deck.Count == 0) throw new InvalidInputException("Deck empty at Thief");
             List<AbstractCard> newdeck = deck;
             int highestval = 0;
             int atindex = 0;

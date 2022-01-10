@@ -32,9 +32,7 @@ namespace Server.BusinessLogic
             int usergold = UserAccess.getUserGold(user);
             if (usergold - 5 < 0) throw new InvalidInputException("Not enough Gold");
 
-            UserAccess.changeUserGold(user, usergold - 5);
-
-            string s = "";
+            UserAccess.changeUserGold(user, usergold - 5);            
 
             List<int> CommonCards = CardAccess.getFactoryCards(0);
             List<int> RareCards = CardAccess.getFactoryCards(1);            
@@ -65,8 +63,6 @@ namespace Server.BusinessLogic
             if (usergold - 10 < 0) throw new InvalidInputException("Not enough Gold");
 
             UserAccess.changeUserGold(user, usergold - 10);
-
-            string s = "";
 
             List<int> CommonCards = CardAccess.getFactoryCards(0);
             List<int> RareCards = CardAccess.getFactoryCards(1);
@@ -106,9 +102,6 @@ namespace Server.BusinessLogic
             if (usergold - 20 < 0) throw new InvalidInputException("Not enough Gold");
 
             UserAccess.changeUserGold(user, usergold - 20);
-
-
-            string s = "";
             
             List<int> RareCards = CardAccess.getFactoryCards(1);
             List<int> EpicCards = CardAccess.getFactoryCards(2);

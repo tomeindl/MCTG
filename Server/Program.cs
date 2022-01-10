@@ -21,7 +21,7 @@ namespace HttpServer
             Console.CancelKeyPress += (sender, e) => Environment.Exit(0);
 
             //Populate DB if less than 70 Cards
-            //CSV musst be named "cards.csv", have ";" as delimiter and be located next to Server.exe
+            //CSV musst be named "Cards.csv", have ";" as delimiter and be located next to Server.exe
             if (CardAccess.countFreeCards() < 70)
             {
                 List<AbstractCard> list = CSVReader.ReadCards();
