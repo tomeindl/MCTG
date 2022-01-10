@@ -1,0 +1,52 @@
+﻿name;type;element;race;dmg;trap;rearity;value
+Metal Golem;Monster;2;0;15;;0;10
+Metal Golem;Monster;2;0;15;;0;10
+Metal Golem;Monster;2;0;15;;0;10
+Metal Golem;Monster;2;0;15;;0;10
+Two Faced Goblin;Monster;2;3;12;;0;9
+Two Faced Goblin;Monster;2;3;12;;0;9
+Two Faced Goblin;Monster;2;3;12;;0;9
+Two Faced Goblin;Monster;2;3;12;;0;9
+Arcane Staff;Spell;1;;13;;0;10
+Arcane Staff;Spell;1;;13;;0;10
+Arcane Staff;Spell;1;;13;;0;10
+Larry;Monster;1;6;11;;0;9
+Larry;Monster;1;6;11;;0;9
+Larry;Monster;1;6;11;;0;9
+The Rock;Monster;2;0;13;;0;10
+The Rock;Monster;2;0;13;;0;10
+Blizzard ;Spell;0;;15;;0;12
+Blizzard ;Spell;0;;15;;0;12
+Gon Gob;Monster;2;3;12;;0;9
+Gon Gob;Monster;2;3;12;;0;9
+Gon Gob;Monster;2;3;12;;0;9
+The burning Monster;Monster;1;4;17;;1;14
+The burning Monster;Monster;1;4;17;;1;14
+Fire Wand;Spell;0;;16;;1;12
+Fire Wand;Spell;0;;16;;1;12
+Hang;Monster;2;4;18;;1;15
+Hang;Monster;2;4;18;;1;15
+LANDalf;Monster;0;2;20;;1;17
+LANDalf;Monster;0;2;20;;1;17
+Soul Siphon;Spell;2;;25;;2;20
+Soul Siphon;Spell;2;;25;;2;20
+Soul Siphon;Spell;2;;25;;2;20
+Fire Dragon;Monster;1;1;25;;2;20
+THE KRAKEN;Monster;0;5;35;;3;50
+The Thief;Trap;;;;Thief;2;30
+The Thief;Trap;;;;Thief;2;30
+The Thief;Trap;;;;Thief;2;30
+Small Thief;Trap;;;;Thief;0;10
+Small Thief;Trap;;;;Thief;0;10
+Small Thief;Trap;;;;Thief;0;10
+Small Thief;Trap;;;;Thief;0;10
+Small Thief;Trap;;;;Thief;0;10
+Small Thief;Trap;;;;Thief;0;10
+The Instigator;Trap;;;;Instigator;0;12
+The Instigator;Trap;;;;Instigator;0;12
+The Instigator;Trap;;;;Instigator;0;12
+The Instigator;Trap;;;;Instigator;0;12
+The Instigator;Trap;;;;Instigator;0;12
+The Instigator;Trap;;;;Instigator;0;12
+The Instigator;Trap;;;;Instigator;0;12
+SOME KRAKEN;Monster;0;5;25;;3;30

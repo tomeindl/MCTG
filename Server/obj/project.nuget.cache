@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "S4FCcDcj9pa0rse8MEofFOaNdqGeg6A6PKHYCnacHU2o3MA/Hsbb//yuHy2PQeow24KcWicsZZ0ZMx7uwPaCJg==",
+  "success": true,
+  "projectFilePath": "C:\\Programming\\SWEN\\MonsterCardTradingGame\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tobi\\.nuget\\packages\\npgsql\\6.0.2\\npgsql.6.0.2.nupkg.sha512",
+    "C:\\Users\\Tobi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
